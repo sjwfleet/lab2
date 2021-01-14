@@ -35,6 +35,11 @@ body {
 
 p {
      font-variant: small-caps;
+     text-align: center;
+}
+
+h1 {
+     text-align: center;
 }
 
 .project p {
